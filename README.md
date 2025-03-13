@@ -15,6 +15,12 @@
 
 ---
 
+> **제출 방법**
+> **GitHub 저장소 링크**를 **service@vijob.net** 으로 보내주세요.  
+> 사정이 있으신 경우 회신 부탁드립니다.
+
+---
+
 # GitHub Repository Explorer with Multi-language Support
 
 ## 📌 과제 개요
