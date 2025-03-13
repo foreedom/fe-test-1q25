@@ -21,7 +21,7 @@
 **목표:**
 사용자가 입력한 GitHub 사용자명을 기반으로 해당 사용자의 repository 목록을 조회하고, 상세 정보를 확인하는 웹 애플리케이션을 개발합니다.
 
-**⏳ 기간:** 3일  
+**⏳ 기한:** 2025년 3월 17일  
 **🛠 필수 기술 스택:**  
 - Next.js (App Router 활용)  
 - React.js (Function Component + Hooks)  
